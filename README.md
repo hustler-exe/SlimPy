@@ -13,7 +13,7 @@ To use SlimPy, follow these steps:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/<username>/slimpy.git
+    git clone https://github.com/hustler-exe/slimpy.git
     cd slimpy
     ```
 
